@@ -1,4 +1,4 @@
-Script to quadtree downsample the unwrapped co-seismic interferograms (unw.geo) from ISCE 
+Set of scripts to downsample the unwrapped co-seismic interferograms (unw.geo) from ISCE using the "quadtree"  method
 
 The quadtreeMain.m script downsamples the interseismic unwrapped interferrograms from ISCE output
 
